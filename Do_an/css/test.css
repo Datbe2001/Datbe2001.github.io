@@ -1,0 +1,201 @@
+
+ /* CODE CHÍNH */
+ .phanhoi_top__container{
+    padding-top: 66px;
+    height: 240px;
+    background-image: url("https://taichinhcongnghe.vn/uploads/images/2020/11/image_750x_5face2b56e48b.jpg");
+ }
+ .phanhoi_top__container a:hover{
+      background-color: #4095da;
+ }
+ .phanhoi_top__container h1{
+    margin-top: 60px;
+    margin-left: 40px;
+    color: #fff;
+
+ }
+ .phanhoi_top__container p{
+    margin-left: 40px;
+    color: #fff;
+ }
+
+ .phanhoi_container_mid {
+   margin-left: 10% !important;
+}
+.phanhoi_container_main{
+    font-family: 'Google Sans',-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+ }
+.phanhoi_container_heal ul{
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    
+}
+
+.phanhoi_container_mid{
+    margin: 2% 5%;
+    display: flex;
+}
+.phanhoi_container_mid_left {
+    width: 45%;
+    margin-right: 3%;
+}
+.phanhoi_container_mid_left p{
+   padding-top: 1%;
+}
+.phanhoi_container_mid_left .phanhoi_container_mid_left_heal{
+    background-color: #ced4da;
+    padding: 14px 18px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+.phanhoi_container_mid_left_form{
+   background-color: #fff;
+   height: 90%;
+}
+.phanhoi_container_mid_left_form  label{
+   margin-bottom: 5px;
+   display: inline-block;
+    font-weight: 700;
+}
+
+.phanhoi_container_mid_left_form{
+      padding: 1% 2%;
+      
+}
+.phanhoi_container_mid_left_form div{
+   padding-top: 2%;
+}
+.phanhoi_container_mid_left_form_hoten{
+    width: 100%;
+    min-height: 1px;
+}
+.phanhoi_container_mid_left_form .form_left{
+    font-size: 1.142857rem;
+    line-height: 20px;
+    padding: 9px 18px;
+    border-radius: 0.3rem;
+    width: 100%;
+    color: #575757;
+    background-color: #fff;
+    border: 1px solid #dcdfe3;
+    transition: border-color ease-in-out .15s;
+}
+
+.phanhoi_container_mid_left_form_email{
+   margin-right: 1%;
+}
+.phanhoi_container_mid_left_form_email_dthoai{
+      display: flex;
+}
+.phanhoi_container_mid_left_form_email_noidung .form_left{
+            height:250px;
+}
+
+.phanhoi_container_mid_left_form_button .btn_buttton{
+      width: 100%;
+      background-color: #530ad4;
+      border-color: #530ad4;
+      height: 40px;
+      font-weight: 700;
+      color: #fff;
+      padding: 9px 18px;
+    font-size: 1.285714rem;
+    line-height: 20px;
+    border-radius: 0.3rem;
+    font-family: 'Google Sans',-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}
+.phanhoi_container_mid_left_form_noidung .form_left{
+   height: 100px;
+}
+.phanhoi_container_mid_left_form_button :hover{
+   background-color: #4095da;
+}
+.phanhoi_container_mid_right .phanhoi_container_mid_right_heal{
+   background-color: #ced4da;
+   padding: 14px 18px;
+   border-top-left-radius: 3px;
+   border-top-right-radius: 3px;
+}
+.phanhoi_container_mid_right_form{
+  background-color: #fff;
+  height: 90%;
+}
+.phanhoi_container_mid_right{
+   width: 45%;
+}
+.phanhoi_container_mid_right p{
+   padding-top: 1%;
+}
+.phanhoi_container_mid_right_form{
+   padding: 1% 2%;
+}
+.phanhoi_container_mid_right_form_dienthoai{
+   padding: 2% 2%;
+   display: flex;
+}
+.phanhoi_container_mid_right_form_dienthoai .media-body{
+   margin-left: 2%;
+}
+.phanhoi_container_mid_right_form_dienthoai p{
+   font-size: 1rem;
+    font-weight: bolder;
+    line-height: 1.5;
+}
+.phanhoi_container_mid_right_form_dienthoai a{
+   text-decoration: none;
+}
+.phanhoi_container_mid_right_form_email{
+   display: flex;
+   padding: 2% 2%;
+}
+.phanhoi_container_mid_right_form_email p{
+   font-size: 1rem;
+    font-weight: bolder;
+    line-height: 1.5;
+}
+.phanhoi_container_mid_right_form_email a{
+   text-decoration: none;
+}
+.phanhoi_container_mid_right_form_email .media-body{
+   margin-left: 2%;
+}
+
+
+.phanhoi_container_mid_right_form_page{
+   display: flex;
+   padding: 2% 2%;
+}
+.phanhoi_container_mid_right_form_page p{
+   font-size: 1rem;
+    font-weight: bolder;
+    line-height: 1.5;
+}
+.phanhoi_container_mid_right_form_page a{
+   text-decoration: none;
+}
+.phanhoi_container_mid_right_form_page .media-body{
+   margin-left: 2%;
+}
+
+.phanhoi_container_mid_right_form_group{
+   display: flex;
+   padding: 2% 2%;
+}
+.phanhoi_container_mid_right_form_group p{
+   font-size: 1rem;
+    font-weight: bolder;
+    line-height: 1.5;
+}
+.phanhoi_container_mid_right_form_group a{
+   text-decoration: none;
+}
+.phanhoi_container_mid_right_form_group .media-body{
+   margin-left: 2%;
+}
